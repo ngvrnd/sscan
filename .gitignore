@@ -1,0 +1,8 @@
+processImage.pro
+.qmake.stash
+.DS_Store
+displayImages.o
+editing.jpg
+processImage.app/Contents/Info.plist
+processImage.app/Contents/PkgInfo
+processImage.app/Contents/MacOS/processImage
